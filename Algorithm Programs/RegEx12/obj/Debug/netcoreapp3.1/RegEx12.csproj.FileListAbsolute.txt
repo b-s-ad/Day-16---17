@@ -1,0 +1,14 @@
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.AssemblyInfo.cs
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\New\RegEx12\bin\Debug\netcoreapp3.1\RegEx12.exe
+C:\Users\Userr\Desktop\New\RegEx12\bin\Debug\netcoreapp3.1\RegEx12.deps.json
+C:\Users\Userr\Desktop\New\RegEx12\bin\Debug\netcoreapp3.1\RegEx12.runtimeconfig.json
+C:\Users\Userr\Desktop\New\RegEx12\bin\Debug\netcoreapp3.1\RegEx12.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\New\RegEx12\bin\Debug\netcoreapp3.1\RegEx12.dll
+C:\Users\Userr\Desktop\New\RegEx12\bin\Debug\netcoreapp3.1\RegEx12.pdb
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.csproj.AssemblyReference.cache
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.dll
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.pdb
+C:\Users\Userr\Desktop\New\RegEx12\obj\Debug\netcoreapp3.1\RegEx12.genruntimeconfig.cache

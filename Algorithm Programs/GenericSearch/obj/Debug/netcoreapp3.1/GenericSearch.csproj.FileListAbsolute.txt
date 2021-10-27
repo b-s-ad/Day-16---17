@@ -1,0 +1,14 @@
+C:\Users\Userr\Desktop\New\GenericSearch\bin\Debug\netcoreapp3.1\GenericSearch.exe
+C:\Users\Userr\Desktop\New\GenericSearch\bin\Debug\netcoreapp3.1\GenericSearch.deps.json
+C:\Users\Userr\Desktop\New\GenericSearch\bin\Debug\netcoreapp3.1\GenericSearch.runtimeconfig.json
+C:\Users\Userr\Desktop\New\GenericSearch\bin\Debug\netcoreapp3.1\GenericSearch.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\New\GenericSearch\bin\Debug\netcoreapp3.1\GenericSearch.dll
+C:\Users\Userr\Desktop\New\GenericSearch\bin\Debug\netcoreapp3.1\GenericSearch.pdb
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.AssemblyInfo.cs
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.dll
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.pdb
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.genruntimeconfig.cache
+C:\Users\Userr\Desktop\New\GenericSearch\obj\Debug\netcoreapp3.1\GenericSearch.csproj.AssemblyReference.cache

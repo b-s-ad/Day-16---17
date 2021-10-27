@@ -1,0 +1,13 @@
+C:\Users\Userr\Desktop\New\find_your_number\bin\Debug\netcoreapp3.1\find_your_number.exe
+C:\Users\Userr\Desktop\New\find_your_number\bin\Debug\netcoreapp3.1\find_your_number.deps.json
+C:\Users\Userr\Desktop\New\find_your_number\bin\Debug\netcoreapp3.1\find_your_number.runtimeconfig.json
+C:\Users\Userr\Desktop\New\find_your_number\bin\Debug\netcoreapp3.1\find_your_number.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\New\find_your_number\bin\Debug\netcoreapp3.1\find_your_number.dll
+C:\Users\Userr\Desktop\New\find_your_number\bin\Debug\netcoreapp3.1\find_your_number.pdb
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.AssemblyInfo.cs
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.dll
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.pdb
+C:\Users\Userr\Desktop\New\find_your_number\obj\Debug\netcoreapp3.1\find_your_number.genruntimeconfig.cache

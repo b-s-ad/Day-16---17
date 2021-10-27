@@ -1,0 +1,13 @@
+C:\Users\Userr\Desktop\New\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+C:\Users\Userr\Desktop\New\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\Userr\Desktop\New\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+C:\Users\Userr\Desktop\New\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\New\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\Userr\Desktop\New\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\Userr\Desktop\New\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.genruntimeconfig.cache
